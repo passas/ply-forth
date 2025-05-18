@@ -1,0 +1,2 @@
+: FALLING  -10 0 DO  I .  -1 +LOOP ;
+FALLING

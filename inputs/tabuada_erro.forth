@@ -1,0 +1,3 @@
+: TABUADA DO 11 1 DO I J * LOOP LOOP ;
+
+    TABUADA

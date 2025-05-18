@@ -1,0 +1,3 @@
+: STAR   [CHAR] * EMIT ;
+: STARS DO STAR LOOP ;
+10 0 STARS

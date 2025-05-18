@@ -1,0 +1,9 @@
+VARIABLE DATE
+
+12 DATE !
+
+DATE @
+
+DATE @ .
+
+DATE ?

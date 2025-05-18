@@ -1,0 +1,3 @@
+: PUSHN DO I LOOP ;
+
+PUSHN
