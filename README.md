@@ -20,7 +20,8 @@ I'm not proud of the way that I managed to hold the translation to the Virtual M
 
 ```FORTH
 : TABUADA DO 11 1 DO I J * LOOP LOOP ;
-TABUADA
+
+    TABUADA
 ```
 
 *... and what we have to say about that?*
