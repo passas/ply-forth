@@ -2,10 +2,9 @@
 
 *Framework: [Ply.Yac](https://www.dabeaz.com/ply/ply.html)*
 
-
 *Programming Language: [Forth](https://www.forth.com/starting-forth/1-forth-stacks-dictionary/)*
 
-*Instruction Set: [EwVm](https://ewvm.epl.di.uminho.pt/)
+*Instruction Set: [EwVm](https://ewvm.epl.di.uminho.pt/)*
 
 # Disclaimer
 This work was graded as 19/20.
