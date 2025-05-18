@@ -35,4 +35,4 @@ STOP: Ficheiro não compilado!
 
 [^1]
 
-[^1]: Page 20 of the academic report.
+[^1]: Page 20 on the academic report.
